@@ -1,0 +1,2 @@
+Hangman game is a simply a guess a word game, but with a twist, if we cant guess the word correctly we are attempting a crime ,This is a very intresting game , this game help us to think smartly and parllale humanity will also popup , because,
+if we guess a wrong word everytime then we loss a change to guess a word and we are hanging a man, which feels bad,  we want to save a life so we have to play carefully.
